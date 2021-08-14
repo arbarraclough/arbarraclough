@@ -4,8 +4,8 @@ I'm a 3rd Year Undergraduate Student reading Computer Science (Software Engineer
 # 📫 Contact Me
 - Email: andrew.robert.barraclough@gmail.com
 - LinkedIn: https://www.linkedin.com/in/arbarraclough/
-- Twitter: @a_RBarraclough
-- Instagram: @a_rbarraclough
+- Twitter: https://twitter.com/a_RBarraclough
+- Instagram: https://instagram.com/a_rbarraclough/
 - Discord: Tempest#4119
 
 <!---
