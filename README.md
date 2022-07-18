@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Andrew (or Baz, if you prefer)!
-I'm a 3rd Year Undergraduate Student reading Computer Science (Software Engineering) at Royal Holloway, University of London.
+I'm a 4th Year Undergraduate Student reading Computer Science (Software Engineering) at Royal Holloway, University of London.
 
 # 📫 Contact Me
 - Email: andrew.robert.barraclough@gmail.com
