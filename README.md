@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Andrew (or Baz, if you prefer)!
-I'm a 4th Year Undergraduate Student reading Computer Science (Software Engineering) at Royal Holloway, University of London.
+I'm a Postgraduate Student reading Machine Learning at Royal Holloway, University of London.
 
 # 📫 Contact Me
 - Email: andrew.robert.barraclough@gmail.com
 - LinkedIn: https://linkedin.com/in/arbarraclough/
 - Twitter: https://twitter.com/a_RBarraclough
 - Instagram: https://instagram.com/a_rbarraclough/
-- Discord: Tempest#4119
+- Discord: tempest59
 
 <!---
 - 👋 Hi, I’m @andrewrbarraclough
